@@ -1,22 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://example.com/ha/</loc>
+         <loc>https://olivier-roger-vet.github.io/veille-reglementaire/index.html</loc>
          <lastmod>2025-09-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://example.com/sa/</loc>
+         <loc>https://olivier-roger-vet.github.io/veille-reglementaire/ha.html</loc>
          <lastmod>2025-09-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://example.com/showroom/</loc>
+         <loc>https://olivier-roger-vet.github.io/veille-reglementaire/sa.html</loc>
          <lastmod>2025-09-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://example.com/sp/</loc>
+         <loc>https://olivier-roger-vet.github.io/veille-reglementaire/showroom.html</loc>
+         <lastmod>2025-09-09</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://olivier-roger-vet.github.io/veille-reglementaire/sp.html</loc>
          <lastmod>2025-09-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
