@@ -1,9 +1,11 @@
-site_url: https://example.com
+site_url: https://olivier-roger-vet.github.io/veille-reglementaire
+use_directory_urls: false
 site_name: Veille réglementaire
 site_description: actualités réglementaires en santé animale, santé publique et hygiène alimentaire
 site_author: Olivier ROGER
 
 nav:
+  - Accueil: index.md
   - Santé animale: sa.md
   - Santé publique: sp.md
   - Hygiène alimentaire: ha.md
