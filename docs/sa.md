@@ -16,6 +16,21 @@
 | -------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
 | Arrêté du 31/07/2019 fixant des mesures de surveillance et de lutte contre la maladie des muqueuses/diarrhée virale bovine (BVD) | [27/02/2020](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000038858861/) |
 
+### Brucellose
+
+| Texte                                                                                                                                                                                                    | Version                                                                                 |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
+| Instruction technique **DGAL/SDSBEA/2025-449** du 16-07-2025 précisant les modalités de gestion de la brucellose bovine en cas d'avortement ou de résultats sérologiques positifs lors de la prophylaxie | [Initiale](https://info.agriculture.gouv.fr/boagri/instruction-2025-449/telechargement) |
+
+### Dermatose nodulaire contagieuse
+
+| Texte                                                                                                                                                                       | Version                                                                                                                                                                                                                                          |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Arrêté préfectoral **SPA 2025-179** du 19/09/2025 déterminant une zone réglementée suite à un foyer de dermatose nodulaire contagieuse bovine dans le Rhône                 | [Initiale](https://www.rhone.gouv.fr/contenu/telechargement/65541/442002/file/arr%C3%AAt%C3%A9%20zones%20r%C3%A9glement%C3%A9es%20DNCB.pdf), [Annexe](https://www.rhone.gouv.fr/contenu/telechargement/65542/442007/file/Annexe_AP_20250919.pdf) |
+| Arrêté **2025-02782** du 26/08/2025 déterminant une zone réglementée suite à un foyer de dermatose nodulaire contagieuse bovine en Haute Savoie                             | [Initiale](https://www.haute-savoie.gouv.fr/contenu/telechargement/49160/311613/file/arr%C3%AAt%C3%A9%20DNC%2026082025.pdf)                                                                                                                      |
+| Instruction technique **DGAL/SDSBEA/2025-525** du 14-08-2025 modifiée fixant les conditions applicables aux mouvements des bovins, de leurs produits germinaux et du lisier | [17/09/2025](https://info.agriculture.gouv.fr/boagri/instruction-2025-525)                                                                                                                                                                       |
+| Arrêté préfectoral **DDETSPP-PV-PSA-20250723-04** du 24/07/2025 une zone réglementée suite à un foyer de dermatose nodulaire contagieuse bovine en Savoie                   | [initiale](https://www.savoie.gouv.fr/contenu/telechargement/51215/409024/file/2025-07-24_RAA_N%C2%B073-2025-157-special.pdf)                                                                                                                    |
+
 ### Influenza aviaire
 
 | Texte                                                                                                                                                     | Version                                                                    |
