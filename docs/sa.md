@@ -4,8 +4,10 @@
 
 | Texte                                                                                                                                                                                      | Version                                                                                       |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------- |
+| Arrêté du 13 novembre 2024 fixant les mesures financières relatives à une visite sanitaire obligatoire en élevage pour la filière bovine sur la campagne 2024-2026                         | [18/09/2025](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000050500924/)                    |
 | Règlement UE **2018/1882** du 03/12/2018 sur l'application de certaines dispositions en matière de prévention et de lutte contre les maladies à des catégories de maladies répertoriées... | [01/02/2024](https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX%3A02018R1882-20240201) |
 | Règlement UE **2016/429** du 09/06/2016 relatif aux maladies animales transmissibles et modifiant et abrogeant certains actes dans le domaine de la santé animale («Loi Santé Animale»)    | [21/04/2021](https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX%3A02016R0429-20210421) |
+| Arrêté du 24 septembre 2015 mettant en place les visites sanitaires dans les élevages                                                                                                      | [01/01/2019](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000031273494)                     |
 
 
 ## Maladies infectieuses
@@ -37,10 +39,10 @@
 
 ### Influenza aviaire
 
-| Texte                                                                                                                                                     | Version                                                                    |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
-| Arrêté du 25/09/2023 relatif aux mesures de surveillance, de prévention, de lutte et de vaccination contre l'influenza aviaire hautement pathogène (IAHP) | [08/09/2025](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000048110961/) |
-
+| Texte                                                                                                                                                      | Version                                                                    |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
+| Arrêté du 25/09/2023 relatif aux mesures de surveillance, de prévention, de lutte et de vaccination contre l'influenza aviaire hautement pathogène (IAHP)  | [08/09/2025](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000048110961/) |
+| Arrêté du 10 septembre 2001 établissant des mesures financières relatives à la lutte contre les pestes aviaires, maladie de Newcastle et influenza aviaire | [18/09/2025](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000763362)  |
 
 ### IBR
 
