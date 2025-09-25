@@ -1,5 +1,11 @@
 # Hygiène alimentaire
 
+## Lait cru
+
+| Texte                                                                                                                                                                                                                                                                                                                                                  | Version                                                                                 |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------- |
+| Instruction technique **DGAL/SDSSA/2024-528** du 24-09-2024 modifiant l'instruction technique DGAL/SDSSA/2018-924 du 07/01/2019 et définissant les critères de détermination des établissements éligibles à des mesures de flexibilité et lignes directrices en matière de mise en oeuvre de cette flexibilité au niveau du plan de maîtrise sanitaire | [Initiale](https://info.agriculture.gouv.fr/boagri/instruction-2024-528/telechargement) |
+
 ## Formation
 
 | Texte                                                                                                 | Version                                                                                                 | Commentaire                                                                                                          |
