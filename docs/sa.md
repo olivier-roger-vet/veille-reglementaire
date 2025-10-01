@@ -13,6 +13,7 @@
 | Règlement UE **2018/1882** du 03/12/2018 sur l'application de certaines dispositions en matière de prévention et de lutte contre les maladies à des catégories de maladies répertoriées...                                                                                                                                                                                                                                             | [01/02/2024](https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX%3A02018R1882-20240201)   |
 | Règlement UE **2016/429** du 09/06/2016 relatif aux maladies animales transmissibles et modifiant et abrogeant certains actes dans le domaine de la santé animale («Loi Santé Animale»)                                                                                                                                                                                                                                                | [21/04/2021](https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX%3A02016R0429-20210421)   |
 | Arrêté du 24/09/2015 mettant en place les visites sanitaires dans les élevages                                                                                                                                                                                                                                                                                                                                                         | [01/01/2019](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000031273494)                       |
+| Règlement (CE) **1069/2009** du Parlement européen et du Conseil du 21/10/2009 établissant des règles sanitaires applicables aux sous-produits animaux et produits dérivés non destinés à la consommation humaine et abrogeant le règlement (CE) no 1774/2002                                                                                                                                                                          | [14/12/2019](https://eur-lex.europa.eu/legal-content/FR/TXT/PDF/?uri=CELEX:02009R1069-20191214) |
 
 
 ## Maladies infectieuses
@@ -43,6 +44,11 @@
 | Arrêté du 16/07/2025 fixant les mesures de surveillance, de prévention et de lutte relatives à la lutte contre la dermatose nodulaire contagieuse sur le territoire métropolitain                                                                                        | [31/08/2025](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000051912379/)                                                                                                                                                                       |
 | Arrêté du 16/07/2025 relatif à l'appel aux services d'élèves des écoles vétérinaires françaises remplissant les conditions prévues à l'article L. 241-6 pour lutter contre la dermatose nodulaire contagieuse et pris en application des articles L. 246-11 et R. 241-15 | [19/07/2025](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000051912420/)                                                                                                                                                                       |
 
+### IBR
+
+| Texte                                                                                                                          | Version                                                                    |
+| ------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------- |
+| Arrêté du 10/06/2024 fixant les mesures de prévention, de surveillance et de lutte contre la rhinotrachéite infectieuse bovine | [23/06/2024](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000049765236/) |
 
 ### Influenza aviaire
 
@@ -50,12 +56,6 @@
 | --------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
 | Arrêté du 25/09/2023 relatif aux mesures de surveillance, de prévention, de lutte et de vaccination contre l'influenza aviaire hautement pathogène (IAHP) | [08/09/2025](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000048110961/) |
 | Arrêté du 10/09/2001 établissant des mesures financières relatives à la lutte contre les pestes aviaires, maladie de Newcastle et influenza aviaire       | [18/09/2025](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000763362)  |
-
-### IBR
-
-| Texte                                                                                                                          | Version                                                                    |
-| ------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------- |
-| Arrêté du 10/06/2024 fixant les mesures de prévention, de surveillance et de lutte contre la rhinotrachéite infectieuse bovine | [23/06/2024](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000049765236/) |
 
 ### Varron
 
