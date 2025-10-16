@@ -5,10 +5,11 @@ site_description: actualités réglementaires en santé animale, santé publique
 site_author: Olivier ROGER
 
 nav:
-  - Accueil: index.md
-  - Santé animale: sa.md
-  - Santé publique: sp.md
-  - Hygiène alimentaire: ha.md
+  - Historique: index.md
+  - Eau: eau.md
+  - Hygiène alimentaire: hygiene_alimentaire.md
+  - Lait: lait.md
+  - Santé animale: sante_animale.md
   #- showroom: showroom.md
 
 theme:
@@ -83,7 +84,7 @@ extra:
       - accept
       - reject
   generator: false
-copyright: 15/10/2025 &copy; Olivier ROGER
+copyright: 16/10/2025 &copy; Olivier ROGER
 markdown_extensions:
   - abbr
   - admonition

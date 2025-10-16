@@ -1,8 +1,6 @@
-# Santé publique
+# Eau
 
-## Eaux
-
-### Généralités
+## Généralités
 
 | Texte                                                                                                                                                                                    | Version                                                                                                                                                         |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -10,7 +8,7 @@
 | Arrêté du 11/01/2007 relatif aux limites et références de qualité des eaux brutes et des eaux destinées à la consommation humaine                                                        | [Initiale](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000465574)                                                                                         |
 | Arrêté du 11/01/2007 relatif au programme de prélèvements et d'analyses du contrôle sanitaire pour les eaux fournies par un réseau de distribution...                                    | [18/08/2017](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000466614), [02/02/2026](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000466614/2026-02-02) |
 
-### Eaux brutes
+## Eaux brutes
 
 | Texte                                                                                                                                                                                                                                 | Version                                                                                                 |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
