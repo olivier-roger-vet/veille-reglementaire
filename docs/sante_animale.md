@@ -58,6 +58,7 @@
 
 | Texte                                                                                                                                                     | Version                                                                    |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
+| Arrêté du 17/10/2025 qualifiant le niveau de risque en matière d'influenza aviaire hautement pathogène                                                    | [Initiale](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000052404023)    |
 | Arrêté du 25/09/2023 relatif aux mesures de surveillance, de prévention, de lutte et de vaccination contre l'influenza aviaire hautement pathogène (IAHP) | [08/09/2025](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000048110961/) |
 | Arrêté du 10/09/2001 établissant des mesures financières relatives à la lutte contre les pestes aviaires, maladie de Newcastle et influenza aviaire       | [18/09/2025](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000763362)  |
 
