@@ -6,10 +6,12 @@ site_author: Olivier ROGER
 
 nav:
   - Historique: index.md
+  - Aliments: hygiene_alimentaire.md
+  - Animaux: sante_animale.md
   - Eau: eau.md
-  - Hygiène alimentaire: hygiene_alimentaire.md
   - Lait: lait.md
-  - Santé animale: sante_animale.md
+  - Végétaux: vegetaux.md
+
   #- showroom: showroom.md
 
 theme:
@@ -84,7 +86,7 @@ extra:
       - accept
       - reject
   generator: false
-copyright: 05/01/2026 &copy; Olivier ROGER
+copyright: 23/02/2026 &copy; Olivier ROGER
 markdown_extensions:
   - abbr
   - admonition
