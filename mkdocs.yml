@@ -11,9 +11,6 @@ nav:
   - Eau: eau.md
   - Lait: lait.md
   - Végétaux: vegetaux.md
-
-  #- showroom: showroom.md
-
 theme:
   name: material
   language: fr
@@ -86,7 +83,7 @@ extra:
       - accept
       - reject
   generator: false
-copyright: 23/02/2026 &copy; Olivier ROGER
+copyright: 09/03/2026 &copy; Olivier ROGER
 markdown_extensions:
   - abbr
   - admonition
