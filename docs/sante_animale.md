@@ -52,6 +52,12 @@
 | Arrêté du 16/07/2025 fixant les mesures de surveillance, de prévention et de lutte relatives à la lutte contre la dermatose nodulaire contagieuse sur le territoire métropolitain                                                                                                       | [27/04/2026](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000051912379/)                                                                                                                                                                       |
 | Arrêté du 16/07/2025 relatif à l'appel aux services d'élèves des écoles vétérinaires françaises remplissant les conditions prévues à l'article L. 241-6 pour lutter contre la dermatose nodulaire contagieuse et pris en application des articles L. 246-11 et R. 241-15                | [Initiale](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000051912420/)                                                                                                                                                                         |
 
+### FCO
+
+| Texte                                                                                                                                                                                                           | Version                                                                   |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
+| Arrêté du 26 mai 2026 modifiant l'arrêté du 4 juillet 2024 fixant les mesures de surveillance, de prévention et de lutte relatives à la lutte contre la fièvre catarrhale ovine sur le territoire métropolitain | [26/05/2026](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054153990) |
+
 ### IBR
 
 | Texte                                                                                                                          | Version                                                                    |

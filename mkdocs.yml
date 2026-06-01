@@ -83,7 +83,7 @@ extra:
       - accept
       - reject
   generator: false
-copyright: 04/05/2026 &copy; Olivier ROGER
+copyright: 01/06/2026 &copy; Olivier ROGER
 markdown_extensions:
   - abbr
   - admonition
