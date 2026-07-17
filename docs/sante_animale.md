@@ -56,6 +56,7 @@
 
 | Texte                                                                                                                                                                                                           | Version                                                                   |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
+| [IT DGAL/SDSBEA/2026-377](https://info.agriculture.gouv.fr/boagri/instruction-2026-377) établissant les modalités de surveillance et gestion de la fièvre catarrhale ovine sur le territoire national           | 02/07/2026                                                                |
 | Arrêté du 26 mai 2026 modifiant l'arrêté du 4 juillet 2024 fixant les mesures de surveillance, de prévention et de lutte relatives à la lutte contre la fièvre catarrhale ovine sur le territoire métropolitain | [26/05/2026](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054153990) |
 
 ### IBR

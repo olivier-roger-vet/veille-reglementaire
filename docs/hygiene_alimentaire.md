@@ -1,5 +1,11 @@
 # Hygiène alimentaire
 
+## Listeria
+
+| Texte                                                                                                                                                                                                               | Version                                                                    |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
+| IT DGAL/MUS/2026-400 du 10/07/2026 relative à la révision d'un critère de sécurité et des critères d'information du consommateur pour les denrées en fin de vie en ce qui concerne le risque Listeria monocytogenes | [10/07/2026](https://info.agriculture.gouv.fr/boagri/instruction-2026-400) |
+
 ## Dangers chimiques
 
 | Texte                                                                                                                                                                                            | Version                                                                                       |
@@ -9,9 +15,9 @@
 
 ## Formation
 
-| Texte                                                                                                 | Version                                                                                                 | Commentaire                                                                                                          |
-| ----------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
-| Décret **2025-922** du 06/09/2025 modifiant l’article D. 233-12 du code rural et de la pêche maritime | [Initiale](https://www.legifrance.gouv.fr/download/pdf?id=rb8gm4rObqLryfLTFw-FBTkhrqEkpM01d0ueR1WkGMM=) | Les formateurs en hygiène alimentaire auprès de la restauration commerciale doivent désormais disposer d'un agrément |
+| Texte                                                                                                 | Version                                                                                                 |
+| ----------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
+| Décret **2025-922** du 06/09/2025 modifiant l’article D. 233-12 du code rural et de la pêche maritime | [Initiale](https://www.legifrance.gouv.fr/download/pdf?id=rb8gm4rObqLryfLTFw-FBTkhrqEkpM01d0ueR1WkGMM=) |
 
 
 ## Lait cru
