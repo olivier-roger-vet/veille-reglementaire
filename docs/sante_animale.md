@@ -55,10 +55,11 @@
 
 ### FCO
 
-| Texte                                                                                                                                                                                                           | Version                                                                    |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
-| IT **DGAL/SDSBEA/2026-377** établissant les modalités de surveillance et gestion de la fièvre catarrhale ovine sur le territoire national                                                                       | [02/07/2026](https://info.agriculture.gouv.fr/boagri/instruction-2026-377) |
-| Arrêté du 26 mai 2026 modifiant l'arrêté du 4 juillet 2024 fixant les mesures de surveillance, de prévention et de lutte relatives à la lutte contre la fièvre catarrhale ovine sur le territoire métropolitain | [26/05/2026](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054153990)  |
+| Texte                                                                                                                                                                                                           | Version                                                                               |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
+| IT **DGAL/SDSBEA/2026-377** établissant les modalités de surveillance et gestion de la fièvre catarrhale ovine sur le territoire national                                                                       | [02/07/2026](https://info.agriculture.gouv.fr/boagri/instruction-2026-377)            |
+| Arrêté du 26 mai 2026 modifiant l'arrêté du 4 juillet 2024 fixant les mesures de surveillance, de prévention et de lutte relatives à la lutte contre la fièvre catarrhale ovine sur le territoire métropolitain | [26/05/2026](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054153990)             |
+| Arrêté du 4 juillet 2024 fixant les mesures de surveillance, de prévention et de lutte relatives à la lutte contre la fièvre catarrhale ovine sur le territoire métropolitain                                   | [04/07/2024](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000049892642/2025-02-20/) |
 
 ### IBR
 
@@ -68,15 +69,16 @@
 
 ### Influenza aviaire
 
-| Texte                                                                                                                                                                                                       | Version                                                                            |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
-| IT **DGAL/SDSBEA/2026-453** du 29/07/2026 relatif à l'adaptation des modalités de surveillance post-vaccination contre l’Influenza Aviaire Hautement Pathogène (IAHP) pour la fin de la campagne 2025-2026. | [29/07/2026](https://info.agriculture.gouv.fr/boagri/instruction-2026-453)         |
-| IT **DGAL/SDSBEA/2026-452** du 29/07/2026 exposant les modalités de mise en œuvre d’un protocole de vaccination hétérologue contre l’influenza aviaire hautement pathogène (IAHP) chez les canards          | [29/07/2026](https://info.agriculture.gouv.fr/boagri/instruction-2026-452)         |
-| Arrêté du 22/05/2026 qualifiant le niveau de risque en matière d'influenza aviaire hautement pathogène                                                                                                      | [22/05/2026](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054171683)          |
-| <del>Arrêté du 21/04/2026 qualifiant le niveau de risque en matière d'influenza aviaire hautement pathogène</del>                                                                                           | <del>[Initiale](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053958887)</del> |
-| <del>Arrêté du 17/10/2025 qualifiant le niveau de risque en matière d'influenza aviaire hautement pathogène</del>                                                                                           | <del>[Initiale](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000052404023)</del> |
-| Arrêté du 25/09/2023 relatif aux mesures de surveillance, de prévention, de lutte et de vaccination contre l'influenza aviaire hautement pathogène (IAHP)                                                   | [08/09/2025](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000048110961/)         |
-| Arrêté du 10/09/2001 établissant des mesures financières relatives à la lutte contre les pestes aviaires, maladie de Newcastle et influenza aviaire                                                         | [18/09/2025](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000763362)          |
+| Texte                                                                                                                                                                                                       | Version                                                                              |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
+| IT **DGAL/SDSBEA/2026-453** du 29/07/2026 relatif à l'adaptation des modalités de surveillance post-vaccination contre l’Influenza Aviaire Hautement Pathogène (IAHP) pour la fin de la campagne 2025-2026. | [29/07/2026](https://info.agriculture.gouv.fr/boagri/instruction-2026-453)           |
+| IT **DGAL/SDSBEA/2026-452** du 29/07/2026 exposant les modalités de mise en œuvre d’un protocole de vaccination hétérologue contre l’influenza aviaire hautement pathogène (IAHP) chez les canards          | [29/07/2026](https://info.agriculture.gouv.fr/boagri/instruction-2026-452)           |
+| Auto-déclaration de la France concernant le statut indemne de l'influenza aviaire de haute pathogénicité chez les volailles                                                                                 | [02/07/2026](https://www.woah.org/app/uploads/2026/07/2026-07-france-hpai-selfd.pdf) |
+| Arrêté du 22/05/2026 qualifiant le niveau de risque en matière d'influenza aviaire hautement pathogène                                                                                                      | [22/05/2026](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054171683)            |
+| <del>Arrêté du 21/04/2026 qualifiant le niveau de risque en matière d'influenza aviaire hautement pathogène</del>                                                                                           | <del>[Initiale](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053958887)</del>   |
+| <del>Arrêté du 17/10/2025 qualifiant le niveau de risque en matière d'influenza aviaire hautement pathogène</del>                                                                                           | <del>[Initiale](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000052404023)</del>   |
+| Arrêté du 25/09/2023 relatif aux mesures de surveillance, de prévention, de lutte et de vaccination contre l'influenza aviaire hautement pathogène (IAHP)                                                   | [08/09/2025](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000048110961/)           |
+| Arrêté du 10/09/2001 établissant des mesures financières relatives à la lutte contre les pestes aviaires, maladie de Newcastle et influenza aviaire                                                         | [18/09/2025](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000763362)            |
 
 ### Salmonelloses
 
