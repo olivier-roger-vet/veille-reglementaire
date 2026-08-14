@@ -80,12 +80,17 @@
 | Arrêté du 25/09/2023 relatif aux mesures de surveillance, de prévention, de lutte et de vaccination contre l'influenza aviaire hautement pathogène (IAHP)                                                   | [08/09/2025](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000048110961/)           |
 | Arrêté du 10/09/2001 établissant des mesures financières relatives à la lutte contre les pestes aviaires, maladie de Newcastle et influenza aviaire                                                         | [18/09/2025](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000763362)            |
 
+### Pestes porcines
+
+| Texte                                                                                                                                        | Version                                                                    |
+| -------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
+| IT **DGAL/SDSBEA/2026-479** du 31-07-2026 définissant les modalités de surveillance événementielle des pestes porcines dans la faune sauvage | [08/08/2026](https://info.agriculture.gouv.fr/boagri/instruction-2026-479) |
+
 ### Salmonelloses
 
 | Texte                                                                                                                                                                                                                                                        | Version                                                                    |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------- |
 | Arrêté du 27 février 2023 relatif à la lutte contre les infections à Salmonella dans les troupeaux de l'espèce Gallus gallus en filière ponte d'œufs de consommation et dans les troupeaux de reproducteurs de l'espèce Gallus gallus ou Meleagris gallopavo | [19/02/2026](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000047259824/) |
-
 
 ### Tuberculose
 
@@ -93,6 +98,8 @@
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------- |
 | Arrêté du 8/10/2021 fixant les mesures techniques et administratives relatives à la prévention, la surveillance et la police sanitaire de l'infection par le complexe Mycobacterium tuberculosis des animaux des espèces bovine, caprine et porcine ainsi que des élevages de camélidés et de cervidés | [12/11/2025](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000044206674/) |
 | Arrêté du 17/06/2009 fixant les mesures financières relatives à la lutte contre la brucellose bovine et à la lutte contre la tuberculose bovine et caprine                                                                                                                                             | [26/02/2023](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000020796799)  |
+
+## Maladies parasitaires
 
 ### Varron
 
