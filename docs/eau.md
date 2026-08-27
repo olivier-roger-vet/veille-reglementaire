@@ -8,6 +8,13 @@
 | Arrêté du 11/01/2007 relatif aux limites et références de qualité des eaux brutes et des eaux destinées à la consommation humaine                                                        | [Initiale](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000465574)                                                                                         |
 | Arrêté du 11/01/2007 relatif au programme de prélèvements et d'analyses du contrôle sanitaire pour les eaux fournies par un réseau de distribution...                                    | [18/08/2017](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000466614), [02/02/2026](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000466614/2026-02-02) |
 
+## Eaux de piscine
+
+| Texte                                                                                                                                                                             | Version                                                                   |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
+| Arrêté du 23/06/2026 relatif à la surveillance des eaux de piscine pris en application des articles D. 1332-1 et D. 1332-10 du code de la santé publique                          | [23/06/2026](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054321840) |
+| Arrêté du 23/06/2026 modifiant l'arrêté du 19/12/2025 relatif aux dispositions techniques applicables aux piscines mentionnées à l'article D. 1332-1 du code de la santé publique | [23/06/2026](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054321892) |
+
 ## Eaux brutes
 
 | Texte                                                                                                                                                                                                                                 | Version                                                                                                 |

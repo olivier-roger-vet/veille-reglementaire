@@ -10,6 +10,7 @@
 
 | Texte                                                                                                                                                                                            | Version                                                                                       |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------- |
+| IT **DGAL/SDEIGIR/2025-861** du 23/12/2025 : Dispositif PSPC – Plan de contrôle de certains contaminants chimiques dans les denrées alimentaires d'origine animale et végétale – Année 2026      | [23/12/2025](https://info.agriculture.gouv.fr/boagri/instruction-2025-861)                    |
 | Règlement (UE) **2023/915** de la Commission du 25/04/2023 concernant les teneurs maximales pour certains contaminants dans les denrées alimentaires et abrogeant le règlement (CE) no 1881/2006 | [08/10/2025](https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX%3A02023R0915-20251008) |
 
 
