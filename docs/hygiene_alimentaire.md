@@ -2,9 +2,10 @@
 
 ## Listeria
 
-| Texte                                                                                                                                                                                                               | Version                                                                    |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
-| IT DGAL/MUS/2026-400 du 10/07/2026 relative à la révision d'un critère de sécurité et des critères d'information du consommateur pour les denrées en fin de vie en ce qui concerne le risque Listeria monocytogenes | [10/07/2026](https://info.agriculture.gouv.fr/boagri/instruction-2026-400) |
+| Texte                                                                                                                                                                                                                   | Version                                                                    |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
+| IT **DGAL/MUS/2026-400** du 10/07/2026 relative à la révision d'un critère de sécurité et des critères d'information du consommateur pour les denrées en fin de vie en ce qui concerne le risque Listeria monocytogenes | [10/07/2026](https://info.agriculture.gouv.fr/boagri/instruction-2026-400) |
+| IT **DGAL/MUS/2023-11** du 10/01/2023 relative à la révision et publication du Guide d’aide à la gestion des alertes d'origine alimentaire à l’usage des exploitants du secteur alimentaire et de l’administration      | [10/01/2023](https://info.agriculture.gouv.fr/boagri/instruction-2023-11)  |
 
 ## Dangers chimiques
 
