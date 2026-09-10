@@ -29,6 +29,7 @@
 
 | Texte                                                                                                                                                                                                                                             | Version                                                                   |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
+| Arrêté du 03/09/2025 relatif à l'analyse de substances per- et polyfluoroalkylées dans les eaux en entrée et sortie de stations de traitement des eaux usées urbaines                                                                             | [initiale](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000052201216)   |
 | Arrêté du 14/12/2013 relatif aux prescriptions générales applicables aux installations relevant du régime de l'enregistrement au titre de la rubrique n° 2563 de la nomenclature des installations classées pour la protection de l'environnement | [15/02/2025](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000028374816) |
 
 ## Légionelles
