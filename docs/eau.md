@@ -1,20 +1,22 @@
 # Eau
 
-## Généralités
-
 | Texte                                                                                                                                                                                                 | Version                                                                    |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
 | Instruction ministérielle **DGS/EA4/EA3/2021/76** du 06/04/2021 relative à la gestion en cas de prolifération de cyanobactéries dans les eaux douces de baignade et de pêche récréative.              | [Initiale](https://sante.gouv.fr/fichiers/bo/2021/2021.7.sante.pdf)        |
+| Arrêté du 19/10/2017 relatif aux méthodes d'analyse utilisées dans le cadre du contrôle sanitaire des eaux                                                                                            | [03/08/2026](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000035879856)  |
 | Arrêté du 11/01/2007 relatif aux limites et références de qualité des eaux brutes et des eaux destinées à la consommation humaine                                                                     | [Initiale](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000465574)    |
 | Arrêté du 11/01/2007 relatif au programme de prélèvements et d'analyses du contrôle sanitaire pour les eaux fournies par un réseau de distribution...                                                 | [03/08/2026](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000466614/) |
 | Arrêté du 11/01/2007 relatif au programme de prélèvements et d'analyses du contrôle sanitaire pour les eaux utilisées dans une entreprise alimentaire ne provenant pas d'une distribution publique... | [01/01/2023](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000825236/) |
 
-## Eaux de piscine
+## Eaux de piscine et baignades
 
-| Texte                                                                                                                                                                             | Version                                                                   |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
-| Arrêté du 23/06/2026 relatif à la surveillance des eaux de piscine pris en application des articles D. 1332-1 et D. 1332-10 du code de la santé publique                          | [23/06/2026](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054321840) |
-| Arrêté du 23/06/2026 modifiant l'arrêté du 19/12/2025 relatif aux dispositions techniques applicables aux piscines mentionnées à l'article D. 1332-1 du code de la santé publique | [23/06/2026](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054321892) |
+| Texte                                                                                                                                                                             | Version                                                                                                                      |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| Arrêté du 23/06/2026 relatif à la surveillance des eaux de piscine pris en application des articles D. 1332-1 et D. 1332-10 du code de la santé publique                          | [23/06/2026](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054321840)                                                    |
+| Arrêté du 23/06/2026 modifiant l'arrêté du 19/12/2025 relatif aux dispositions techniques applicables aux piscines mentionnées à l'article D. 1332-1 du code de la santé publique | [23/06/2026](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054321892)                                                    |
+| Arrêté du 26/05/2021 relatif au contrôle sanitaire et à la surveillance des eaux de piscine pris en application des articles D. 1332-1 et D. 1332-10 du code de la santé publique | [25/12/2025](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000043535364)                                                    |
+| Articles L1332-1 à L1332-9 du CSP                                                                                                                                                 | [2006-2019](https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072665/LEGISCTA000006154996/#LEGISCTA000006154996) |
+| Articles D1332-14 à D1332-38-1 du CSP                                                                                                                                             | [2008-2022](https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072665/LEGISCTA000006190971/#LEGISCTA000019506596) |
 
 ## Eaux brutes
 
@@ -22,3 +24,16 @@
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
 | Décret **2025-958** du 08/09/2025 relatif aux modalités de mise en œuvre de la trajectoire nationale de réduction progressive des rejets aqueux de substances perfluoroalkylées et polyfluoroalkylées des installations industrielles | [Initiale](https://www.legifrance.gouv.fr/download/pdf?id=okg8pYdlzqssb9b30JjqozzKga8V-YH3-rrHzId_qtk=) |
 | Arrêté du 08/09/2025 relatif à l’analyse de substances per- et polyfluoroalkylées dans les eaux en entrée et sortie de stations de traitement des eaux usées urbaines                                                                 | [Initiale](https://www.legifrance.gouv.fr/download/pdf?id=rb8gm4rObqLryfLTFw-FBWt-sITN1xAdMltMVWiaAdM=) |
+
+## Eaux usées
+
+| Texte                                                                                                                                                                                                                                             | Version                                                                   |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
+| Arrêté du 14/12/2013 relatif aux prescriptions générales applicables aux installations relevant du régime de l'enregistrement au titre de la rubrique n° 2563 de la nomenclature des installations classées pour la protection de l'environnement | [15/02/2025](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000028374816) |
+
+## Légionelles
+
+| Texte                                                                                                                                                                                                                                           | Version                                                                    |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
+| Arrêté du 14/12/2013 relatif aux prescriptions générales applicables aux installations relevant du régime de la déclaration au titre de la rubrique n° 2921 de la nomenclature des installations classées pour la protection de l'environnement | [26/07/2021](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000028375083/) |
+| Arrêté du 01/02/2010 relatif à la surveillance des légionelles dans les installations de production, de stockage et de distribution d'eau chaude sanitaire                                                                                      | [01/01/2023](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000021795143)  |

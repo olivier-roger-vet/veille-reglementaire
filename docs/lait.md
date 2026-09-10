@@ -1,7 +1,5 @@
 # Lait
 
-## Généralités
-
 | Texte                                                                                                                                                                                                                                                            | Version                                                                    |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
 | Arrêté du 14/08/2026 relatif à l'extension de l'accord interprofessionnel conclu dans le cadre de l'Association nationale interprofessionnelle caprine (ANICAP) relatif à la contractualisation écrite dans le secteur du lait cru de chèvre                     | [14/08/2026](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054717771)  |
