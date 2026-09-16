@@ -110,3 +110,9 @@
 | Texte                                                                                                            | Version                                                                   |
 | ---------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
 | Arrêté du 21/01/2009 fixant les mesures de prophylaxie collective et de police sanitaire de l'hypodermose bovine | [05/03/2011](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000020193248) |
+
+## Mycotoxines
+
+| Texte                                                                                                                                                                                                                     | Version                                                       |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------- |
+| Recommandation (UE) **2026/1801** de la Commission du 24 juillet 2026 concernant la présence de déoxynivalénol, de zéaralénone, d’ochratoxine A, des toxines T-2 et HT-2 et de fumonisines dans les aliments pour animaux | [24/07/2026](https://eur-lex.europa.eu/eli/reco/2026/1801/oj) |
